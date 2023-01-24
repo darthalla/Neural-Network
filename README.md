@@ -1,2 +1,6 @@
-# Neural-Network
-Web Development course
+Использованные технологии:
+
+1. для создания SPA - React
+2. для навигации между страницами - react-router-dom
+
+Описание проекта:
