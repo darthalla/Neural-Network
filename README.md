@@ -1,3 +1,4 @@
+
 # The neural network draws
 
 The idea of our project is to introduce you to neural networks.
@@ -22,3 +23,12 @@ To run this project locally make sure that nodejs installed on your laptop. Type
 Thanks to Sber technologies for [the wonderful neural network](https://rudalle.ru/) which provides such images out of text 
 
 ![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%202.png)
+## Tech Stack
+
+**Client:** React
+
+**Server:** Node
+
+**Library:** react-router-dom.
+
+**Additional tool:** Vite
