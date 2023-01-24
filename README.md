@@ -1,4 +1,4 @@
-# Neural-Network draws
+# The neural network draws
 
 The idea of our project is to introduce you to neural networks.
 ![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%201.png)
@@ -7,13 +7,18 @@ Neural networks are not scary. They can process huge amounts of data and do the 
 
 We became particularly interested in how neural networks can visualize text. To make the project more interesting we decided to riddle neural networks with some metaphorical quotations from literature, and we invite you to visit our exhibition of neural network paintings.
 
+
 ## Getting Started
 
-To run this project locally make sure that nodejs installed on your laptop. Type  npm install in your terminal. After that, write npm run api  for the server with data to work. Then start the React app with npm start.
-
+To run this project locally make sure that nodejs installed on your laptop. Type  npm install in your terminal. After that, write npm run api  for the server with data to work. Then start the React app with npm start .
 ## Authors
 
 - [Zhanna Ospanova](https://github.com/oaspan)
 - [Alla Shchuchkina](https://github.com/darthalla)
+
+
+## Credits
+
+Thanks to Sber technologies for [the wonderful neural network](https://rudalle.ru/) which provides such images out of text 
 
 ![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%202.png)
