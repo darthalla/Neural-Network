@@ -1,7 +1,7 @@
 # Neural-Network draws
 
 The idea of our project is to introduce you to neural networks.
-https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%201.png
+![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%201.png)
 
 Neural networks are not scary. They can process huge amounts of data and do the kind of work that humans cannot do. And also, just like us, trained neural networks can create paintings, write music, come up with essays.
 
@@ -16,4 +16,4 @@ To run this project locally make sure that nodejs installed on your laptop. Type
 - [Zhanna Ospanova](https://github.com/oaspan)
 - [Alla Shchuchkina](https://github.com/darthalla)
 
-https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%202.png
+![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%202.png)
