@@ -1,4 +1,4 @@
-# The neural network draws
+# Neural Network Draws
 
 The idea of our project is to introduce you to neural networks.
 ![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%201.png)
@@ -10,7 +10,7 @@ We became particularly interested in how neural networks can visualize text. To 
 
 ## Getting Started
 
-To run this project locally make sure that nodejs installed on your laptop. Type  npm install in your terminal. After that, write npm run dev. 
+To run this project locally make sure that nodejs installed on your laptop. Type  *npm install* in your terminal. After that, write *npm run dev*. 
 
 ## Tech Stack
 
