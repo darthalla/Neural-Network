@@ -11,8 +11,11 @@ We became particularly interested in how neural networks can visualize text. To 
 ## Tech Stack
 
 **Client:** React
+
 **Server:** Node
+
 **Library:** react-router-dom.
+
 **Additional tool:** Vite
 
 ## Getting Started
