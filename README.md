@@ -8,6 +8,12 @@ Neural networks are not scary. They can process huge amounts of data and do the 
 
 We became particularly interested in how neural networks can visualize text. To make the project more interesting we decided to riddle neural networks with some metaphorical quotations from literature, and we invite you to visit our exhibition of neural network paintings.
 
+## Tech Stack
+
+**Client:** React
+**Server:** Node
+**Library:** react-router-dom.
+**Additional tool:** Vite
 
 ## Getting Started
 
@@ -23,12 +29,3 @@ To run this project locally make sure that nodejs installed on your laptop. Type
 Thanks to Sber technologies for [the wonderful neural network](https://rudalle.ru/) which provides such images out of text 
 
 ![](https://github.com/darthalla/Neural-Network/blob/main/readmeimg/Group%202.png)
-## Tech Stack
-
-**Client:** React
-
-**Server:** Node
-
-**Library:** react-router-dom.
-
-**Additional tool:** Vite
