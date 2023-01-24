@@ -1,7 +1,4 @@
-# Neural-Network
-Web Development course
-
-# The neural network draws
+# Neural-Network draws
 
 The idea of our project is to introduce you to neural networks.
 
