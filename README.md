@@ -14,8 +14,6 @@ We became particularly interested in how neural networks can visualize text. To 
 
 **Server:** Node
 
-**Library:** react-router-dom.
-
 **Additional tool:** Vite
 
 ## Getting Started
